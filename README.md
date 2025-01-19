@@ -1,1 +1,8 @@
-# tiwakati
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
